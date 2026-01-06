@@ -1,0 +1,14 @@
+{
+  "home": true,
+  "vip": true,
+  "categories": true,
+  "planning": true,
+  "assign": true,
+  "live": true,
+  "speaker": true,
+  "prep": false,
+  "hostess": true,
+  "api": true,
+  "settings": true,
+  "import": true
+}

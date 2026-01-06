@@ -1,0 +1,23 @@
+[
+  {
+    "id": "JJIF PRES",
+    "name": "PANAGIOTIS THEODOROPOULOS",
+    "role": "JJIF President",
+    "ioc": "GRE",
+    "photo": "assets/photos/JJIF PRES.png"
+  },
+  {
+    "id": "JJIF JOE",
+    "name": "JOACHIM THUMFART",
+    "role": "JJIF Director General",
+    "ioc": "GER",
+    "photo": "assets/photos/JJIF JOE.png"
+  },
+  {
+    "id": "JJIF CHP",
+    "name": "CHRISTIAN HORVATH PORTELE",
+    "role": "JJIF Board Member",
+    "ioc": "AUT",
+    "photo": "assets/photos/JJIF CHP.png"
+  }
+]

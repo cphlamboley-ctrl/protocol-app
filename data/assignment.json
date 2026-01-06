@@ -1,0 +1,15 @@
+[
+  {
+    "category_id": "U16_MALE_46KG",
+    "vip_ids": [
+      "JJIF JOE",
+      "JJIF PRES",
+      "JJIF CHP"
+    ],
+    "vip_roles": {
+      "JJIF CHP": "Gold",
+      "JJIF JOE": "Silver",
+      "JJIF PRES": "Bronze"
+    }
+  }
+]

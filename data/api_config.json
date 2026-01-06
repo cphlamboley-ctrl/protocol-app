@@ -1,0 +1,9 @@
+{
+  "base_url": "http://192.168.199.5:8000",
+  "event_id": "",
+  "api_key": "",
+  "timeout_sec": 8,
+  "refresh_sec": 10,
+  "auto_cycle": true,
+  "extra_headers": {}
+}

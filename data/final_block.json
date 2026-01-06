@@ -1,0 +1,47 @@
+{
+  "mats": 3,
+  "finals": [
+    {
+      "category_id": "1486",
+      "mat": 1,
+      "order": 1,
+      "assigned": true
+    },
+    {
+      "category_id": "1480",
+      "mat": 3,
+      "order": 1,
+      "assigned": true
+    },
+    {
+      "category_id": "1481",
+      "mat": 2,
+      "order": 3,
+      "assigned": true
+    },
+    {
+      "category_id": "1482",
+      "mat": 2,
+      "order": 2,
+      "assigned": true
+    },
+    {
+      "category_id": "1483",
+      "mat": 0,
+      "order": 0,
+      "assigned": false
+    },
+    {
+      "category_id": "1485",
+      "mat": 0,
+      "order": 0,
+      "assigned": false
+    },
+    {
+      "category_id": "1473",
+      "mat": 2,
+      "order": 1,
+      "assigned": true
+    }
+  ]
+}

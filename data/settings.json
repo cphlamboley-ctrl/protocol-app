@@ -1,0 +1,15 @@
+{
+  "cycle_seconds": 10,
+  "speaker_large_font": true,
+  "competition_name": "christmas open",
+  "competition_country": "France",
+  "competition_city": "Thann",
+  "date_from": "2025-12-27",
+  "date_to": "2025-12-27",
+  "event_logo": "assets\\grappling-santa.jpg",
+  "federation_logo": "assets\\federation_logo.png",
+  "show_club": false,
+  "show_clubs": true,
+  "vip_show_photos": true,
+  "hostess_show_photos": true
+}
